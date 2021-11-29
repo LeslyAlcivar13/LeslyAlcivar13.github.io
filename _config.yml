@@ -6,19 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: MI PÁGINA
 
 # Your name to show in the footer
-author: Some Person
+author: Lesly Alcivar
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Mi perfil: "aboutme"
+  Deberes:
+    - Deber 1: "https://view.genial.ly/61a4ec447b84330d8da828d0/presentation-tfg-basico"
+  Autora: "https://www.facebook.com/estefania.alcivar.1"
 
 # --- Logo --- #
 
