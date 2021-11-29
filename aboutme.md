@@ -15,4 +15,4 @@ ALGO MÁS SOBRE MI
 
 ### MI HISTORIA
 
-cONOCE UN POCO MAS DE MI VIDA TE DEJO MI LINK [Mi Facebook](https://www.facebook.com/estefania.alcivar.1) 
+CONOCE UN POCO MAS DE MI VIDA TE DEJO MI LINK [Mi Facebook](https://www.facebook.com/estefania.alcivar.1) 
