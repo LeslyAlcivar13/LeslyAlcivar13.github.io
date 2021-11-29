@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MY PÁGINA WEB
-subtitle: Información breve de my 
+title: MI PÁGINA WEB
+subtitle: Información breve de mi 
 
 gh-badge: [star, fork, follow]
 
