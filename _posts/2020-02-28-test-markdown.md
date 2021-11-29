@@ -2,7 +2,7 @@
 layout: post
 title: MY PÁGINA WEB
 subtitle: Información breve de my 
-cover-img: ‪C:\Users\Pc\Documents\GitHub\foto.jpg
+
 gh-badge: [star, fork, follow]
 
 
